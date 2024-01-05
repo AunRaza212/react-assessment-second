@@ -1,0 +1,14 @@
+
+@media (min-width: 1024px){
+    .mySlider>div>.slick-list{
+        margin-left: 150px !important ; 
+        }
+}
+.rotateCard{
+  background:   linear-gradient(148deg, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 0.03) 100%)
+}
+.header{
+    background: linear-gradient(to bottom, #FFF 50%, #001E2B 109.19%); /* Replace with actual hex colors */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
