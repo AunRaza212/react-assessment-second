@@ -13,7 +13,7 @@ function App() {
     <div className="bg-[#21313c] lg:pb-48 pb-28 overflow-hidden  text-center text-white relative h-full  mx-auto  max-w-full ">
       <div className="max-w-[1440px] mx-auto" >
 
-      <img src={top} className='absolute right-2 -top-4' />
+      <img src={top} alt="top" className='absolute right-2 -top-4' />
       <div  className=" max-w-[857px]   mx-auto py-12  font-medium ">
         <p className="header  text-5xl  leading-normal" >
         Angle Brackets Mobile App development experts
